@@ -1,0 +1,11 @@
+1. The place_token method should update self.__turn
+
+2. I will likely give them a grid A-C and 1-3 and ask them to pick A1 for example or C2
+
+3. Every time a token is placed it should check if someone has won, it will not accept any args
+
+4. There will likely need to be a function to play as the computer, and a function to congratulate the winner, and likely
+another function to accept user input and play as the user
+
+5. Going to use a for loop to loop through all the rows and columns, and for the diagonals those will be hard-coded
+with if statements
